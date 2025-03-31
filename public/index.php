@@ -12,7 +12,7 @@
 <body>
 
     <!-- Inclusion de l'entête -->
-    <?php include "partials/header.php"; ?>
+    <?php include "partials/header.php"; ?> <!-- test du commit -->
 
 
     <!-- partie principale  -->
